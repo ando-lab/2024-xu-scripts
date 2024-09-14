@@ -2,7 +2,7 @@
 
 This repository contains scripts used to produce the densMAP embeddings and conformational landscapes from cryoDRGN analysis as shown in our paper [Xu *et al* 2024](https://doi.org/10.1101/2024.06.16.599213)
 
-These scripts require the results files from cryoDRGN landscape analysis. ChimeraX scirpts and Jupyter notebook in this repository should be run in order, with certain paths edited as needed. We include the output files from Jupyter notebooks but omited the ones from ChimeraX scripts due to their large size.
+These scripts require the results files from cryoDRGN landscape analysis. ChimeraX scripts and Jupyter notebook in this repository should be run in order, with certain paths edited as needed. We include the output files from Jupyter notebooks but omited the ones from ChimeraX scripts due to their large size.
 
 Trained cryoDRGN models will be deposited at a future time.
 
