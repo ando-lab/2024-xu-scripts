@@ -4,7 +4,7 @@ This repository contains scripts used to produce the densMAP embeddings and conf
 
 These scripts require the results files from cryoDRGN landscape analysis. ChimeraX scripts and Jupyter notebook in this repository should be run in order, with certain paths edited as needed. We include the output files from Jupyter notebooks but omited the ones from ChimeraX scripts due to their large size.
 
-Trained cryoDRGN models will be deposited at a future time.
+CryoDRGN model weights have been deposited to Zenodo https://doi.org/10.5281/zenodo.14837414.
 
 Create a conda environment as follows to run the jupyter notebooks:
 
